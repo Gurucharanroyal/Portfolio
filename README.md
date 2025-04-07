@@ -47,7 +47,6 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
    - Go to your repo settings → Pages → Source → Choose `main` and `/root` → Save
 
 ## 📬 Contact
-If you'd like to connect or have feedback, feel free to reach out!
-- Email: your-email@example.com  
+If you'd like to connect or have feedback, feel free to reach out!  
 - LinkedIn:(https://www.linkedin.com/in/guru-charan-royal-3b1761316/)
 ⭐ If you like this project, give it a star!
